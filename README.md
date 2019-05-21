@@ -1,2 +1,2 @@
 # Bayesian
-A simple bayesian approch applied to the famous linear regression.
+Mathematical aspects and Python implementation of an bayesian approach applied to the linear regression.
